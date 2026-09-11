@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MIAPROT.github.io/archive-5resf6/sitemap.xml
